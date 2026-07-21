@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/rajugupta77724/Leetcode_/tree/master/0338-counting-bits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugupta77724/Leetcode_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajugupta77724/Leetcode_/tree/master/3499-maximize-active-section-with-trade-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/rajugupta77724/Leetcode_/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
