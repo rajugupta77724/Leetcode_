@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rajugupta77724/Leetcode_/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajugupta77724/Leetcode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0997-find-the-town-judge](https://github.com/rajugupta77724/Leetcode_/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/rajugupta77724/Leetcode_/tree/master/1260-shift-2d-grid) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rajugupta77724/Leetcode_/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajugupta77724/Leetcode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajugupta77724/Leetcode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajugupta77724/Leetcode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/rajugupta77724/Leetcode_/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/rajugupta77724/Leetcode_/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugupta77724/Leetcode_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -164,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rajugupta77724/Leetcode_/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rajugupta77724/Leetcode_/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rajugupta77724/Leetcode_/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
