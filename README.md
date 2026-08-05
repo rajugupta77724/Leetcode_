@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rajugupta77724/Leetcode_/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rajugupta77724/Leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajugupta77724/Leetcode_/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/rajugupta77724/Leetcode_/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rajugupta77724/Leetcode_/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rajugupta77724/Leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajugupta77724/Leetcode_/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/rajugupta77724/Leetcode_/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/rajugupta77724/Leetcode_/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajugupta77724/Leetcode_/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/rajugupta77724/Leetcode_/tree/master/3310-remove-methods-from-project) |
 ## Segment Tree
 |  |
 | ------- |
