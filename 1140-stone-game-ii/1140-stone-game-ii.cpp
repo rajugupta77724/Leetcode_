@@ -3,23 +3,17 @@ public:
     int n;
     vector<int> suffix;
     vector<vector<int>> dp;
-
     int solve(int i, int M) {
         if (i >= n) return 0;
-
         if (i + 2 * M >= n)
             return suffix[i];
-
         if (dp[i][M] != -1)
             return dp[i][M];
-
         int ans = 0;
-
         for (int X = 1; X <= 2 * M; X++) {
             ans = max(ans,
                       suffix[i] - solve(i + X, max(M, X)));
         }
-
         return dp[i][M] = ans;
     }
     int stoneGameII(vector<int>& piles) {
