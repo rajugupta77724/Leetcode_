@@ -3,8 +3,6 @@ public:
     vector<int> validSequence(string word1, string word2) {
         int N = word1.size();
         int M = word2.size();
-        // Right[i] = max length of word2's suffix that can be formed
-        // using word1[i+1...N-1]
         int R = M - 1;
         int C = 0;
         vector<int> Right(N);
@@ -15,11 +13,9 @@ public:
                 C++;
             }
         }
-
         vector<int> ans;
         bool changed = false;
         int j = 0; // pointer for word2
-
         for (int i = 0; i < N && j < M; i++) {
             if (word1[i] == word2[j]) {
                 ans.push_back(i);
@@ -31,7 +27,6 @@ public:
                 changed = true;
             }
         }
-
         if (j == M) {
             return ans;
         }
