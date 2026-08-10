@@ -41,7 +41,6 @@ public:
                 }
             }
         }
-
         string ans;
         for (int i = 9; i > 1; i--) {
             while (t % i == 0) {
