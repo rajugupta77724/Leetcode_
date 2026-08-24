@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/rajugupta77724/Leetcode_/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/rajugupta77724/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajugupta77724/Leetcode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/rajugupta77724/Leetcode_/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajugupta77724/Leetcode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajugupta77724/Leetcode_/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajugupta77724/Leetcode_/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rajugupta77724/Leetcode_/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajugupta77724/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rajugupta77724/Leetcode_/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajugupta77724/Leetcode_/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajugupta77724/Leetcode_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajugupta77724/Leetcode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajugupta77724/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rajugupta77724/Leetcode_/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajugupta77724/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rajugupta77724/Leetcode_/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajugupta77724/Leetcode_/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajugupta77724/Leetcode_/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugupta77724/Leetcode_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajugupta77724/Leetcode_/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/rajugupta77724/Leetcode_/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rajugupta77724/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -218,18 +222,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rajugupta77724/Leetcode_/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajugupta77724/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rajugupta77724/Leetcode_/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajugupta77724/Leetcode_/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajugupta77724/Leetcode_/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajugupta77724/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rajugupta77724/Leetcode_/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajugupta77724/Leetcode_/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajugupta77724/Leetcode_/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajugupta77724/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rajugupta77724/Leetcode_/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rajugupta77724/Leetcode_/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
